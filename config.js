@@ -1,6 +1,6 @@
 module.exports = {
   author: {
-    name: "Joyee Cheung",
+    name: "sallen450",
     url: "https://github.com/joyeecheung"
   },
   repo: {  // for the markdown source
