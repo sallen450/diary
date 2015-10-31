@@ -8,6 +8,6 @@ module.exports = {
     as_submodule: 'diary'
   },
   base_url: '/diary',  // remote directory for the website
-  //ga_id: 'UA-63818301-1',  // Optional: Universal Google Analytics ID
+  ga_id: 'UA-69522325-1',  // Optional: Universal Google Analytics ID
   title: 'Tech Diary'
 }
