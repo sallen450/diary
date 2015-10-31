@@ -1,7 +1,7 @@
 module.exports = {
   author: {
     name: "sallen450",
-    url: "https://github.com/joyeecheung"
+    url: "https://github.com/sallen450"
   },
   repo: {  // for the markdown source
     content: "https://github.com/sallen450/tech-diary",
